@@ -63,6 +63,10 @@
 
 ## 📸 VPN Connection Screenshots
 
+###Proton VPN Connection:
+![Connection](https://github.com/Rushikesh38-bit/TASK-NO-8-VPN-Privacy-Security/blob/main/Proton_vpn_connect.png)
+
+
 ### Before Connecting to VPN:
 ![Before VPN](https://github.com/Rushikesh38-bit/TASK-NO-8-VPN-Privacy-Security/blob/main/Before_vpn_ip.png)
 
